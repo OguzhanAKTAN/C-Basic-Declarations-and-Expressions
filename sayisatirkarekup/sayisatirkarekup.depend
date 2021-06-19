@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562430229 source:c:\users\aktan\desktop\sayisatirkarekup\main.c
+	<stdio.h>
+	<stdlib.h>
+

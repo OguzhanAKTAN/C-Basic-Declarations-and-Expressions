@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562150581 source:c:\users\aktan\desktop\bolunebilirlik\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562703403 source:c:\users\aktan\desktop\birimtoplama\main.c
+	<stdio.h>
+	<stdlib.h>
+

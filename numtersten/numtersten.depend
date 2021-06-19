@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562692113 source:c:\users\aktan\desktop\numtersten\main.c
+	<stdio.h>
+	<stdlib.h>
+
